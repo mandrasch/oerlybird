@@ -44,7 +44,7 @@ ADD GIF - source code metadata
 
 To enhance the possibilities, Pods (https://de.wordpress.org/plugins/pods/) can be considered as well, e.g. if you want to have a customizable projects directory. SEE TUTORIAL
 
-### 2. OERlybird search index
+### 2. OERlybird search index with ElasticSearch
 
 Yeah, this gets a bit tricky and nerdy now. The good news: You can cooperate on this one, because only one index is needed. But you'll have to talk about metadata standards. 
 
