@@ -1,4 +1,4 @@
-# OERly bird
+# OERlyBird
 Low budget infrastructure concept for sharing Open Educational Resources (OER) across institutions.
 
 No funding? No problem!
@@ -44,3 +44,7 @@ Other CMS can be considered as well of course.
 
 - SaaS: Appbase (rate limited, but free start package), Stackhero (fixed pricing, but no free instance)
 - First Prototype: https://github.com/programmieraffe/oerhoernchen20
+
+### DEMO
+
+- Submit your instance
