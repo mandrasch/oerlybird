@@ -1,5 +1,5 @@
 # OERlybird
-Low budget infrastructure concept for sharing Open Educational Resources (OER) across institutions and based on modern web standards.
+Low budget infrastructure concept for sharing Open Educational Resources (OER) across institutions, based on modern web standards and open source software.
 
 No funding? No problem!
 
