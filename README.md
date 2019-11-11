@@ -27,7 +27,7 @@ OERlyBird is meant to be a kickstart boilerplate which can be used as a placehol
 
 ### 1. OERlybird showroom with Wordpress
 
-Institutions or projects simply setup a standard Wordpress instance, e.g. at oer.university-x.org. Wordpress has many features, but there is no easy way to add OER metadata (authors, license, subject, etc.) to posts and pages. Therefore a lightweight plugin is needed, based on the already existing Open Source Wordpress Plugin metabox (https://metabox.io/). A sitemap plugin such as Google XML sitemaps (Open Source) is needed to connect the page to a search index.
+Institutions or projects simply setup a standard Wordpress instance, e.g. at oer.university-x.org. Wordpress has many features, but there is no easy way to add OER metadata (authors, license, subject, etc.) to posts and pages. The good news: A lightweight plugin can be developed with a few lines of code, based on the already existing Open Source Wordpress Plugin metabox (https://metabox.io/). A sitemap plugin such as Google XML sitemaps (Open Source) is needed to connect the page to the search index later on.
 
 1. Setup wordpress
 2. Install metabox.io plugin
