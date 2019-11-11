@@ -12,7 +12,7 @@ The "unlucky ones" need to wait. But it is no suprise, that engaged educators al
 OERlyBird is meant to be a kickstart boilerplate which can be used as a placeholder while waiting for more funding. It provides a solution for publishing as well as searching for OER in the open web. 
 
 ## Components 
-1. OERlybird showroom = Provide a low budget alternative to repository software for OER projects and institutions starting with a few OERs 
+1. OERlybird showroom = Provide a low budget alternative to repositories for institutions/projects starting publishing with a few OERs 
 2. OERlybird index = Provide a low budget search index to index all the oerlybird-instances (showrooms) to let users search across instances
 
 ## Principles
@@ -25,41 +25,32 @@ OERlyBird is meant to be a kickstart boilerplate which can be used as a placehol
 
 ## Concept
 
-### 1. OERly bird showroom(s)
+### 1. OERlybird showroom with Wordpress
+
+Institutions or projects simply setup a standard Wordpress instance, e.g. at oer.university-x.org. Wordpress has many features, but there is no easy way to add OER metadata (authors, license, subject, etc.) to posts and pages. Therefore a lightweight plugin is needed, based on the already existing Open Source Wordpress Plugin metabox (https://metabox.io/). A sitemap plugin such as Google XML sitemaps (Open Source) is needed to connect the page to a search index.
 
 1. Setup wordpress
 2. Install metabox.io plugin
-3. Install oerlybird-wp
-4. Install Google XML sitemaps
+3. Install oerlybird-wp plugin (first alpha: https://github.com/programmieraffe/oerbox-highered-de)
+4. Install Google XML sitemaps plugin (https://de.wordpress.org/plugins/google-sitemap-generator/)
+5. Add your OER as page (see below)
 
-#### Setup an OERly bird showroom with Wordpress for your institution
-Institutions or projects simply setup a standard Wordpress instance, e.g. at oer.university-x.org. 
+After installation metadata can be added to posts and pages. The metadata will then be published in the HTML source code of the specific page/post automatically (as schema.org). This is important because the search index crawler will pickup this information later.
 
-##### Add metadata editing capability to Wordpress
-Wordpress has many features, but there is no easy way to add OER metadata (Authors, License, Subject, etc.) to posts and pages. Therefore a lightweight plugin is needed, based on the already existing Open Source Wordpress Plugin Metabox (https://metabox.io/).
+#### Example: Create page with OER about X
+ADD GIF - add OER
+ADD GIF - adding metadata
+ADD GIF - source code metadata
 
-Boilerplate: OERly-bird-WP, COMING SOON
-first alpha: https://github.com/programmieraffe/oerbox-highered-de
+To enhance the possibilities, Pods (https://de.wordpress.org/plugins/pods/) can be considered as well, e.g. if you want to have a customizable projects directory. SEE TUTORIAL
 
-Example: Create page with OER about X
+### 2. OERlybird search index
 
-To enhance the possibilities, Pods (https://de.wordpress.org/plugins/pods/) can be considered as well. E.g. if you want to have a customizable projects directory.
+Yeah, this gets a bit tricky and nerdy now. The good news: You can cooperate on this one, because only one index is needed. But you'll have to talk about metadata standards. 
 
-##### Add sitemaps xml
-
-Install the following plugin
-https://de.wordpress.org/plugins/google-sitemap-generator/ (Thanks to Arne Brachhold)
-
-Other CMS can be considered as well of course. 
-
-### 2. OERly bird index
-
-Yeah, this gets a bit tricky and nerdy now. 
-
-#### Setup a search crawler and index with PHP/MySQL and ElasticSearch
-
-- SaaS: Appbase (rate limited, but free start package), Stackhero (fixed pricing, but no free instance)
 - First Prototype: https://github.com/programmieraffe/oerhoernchen20
+- SaaS: Appbase (rate limited, but free start package), Stackhero (fixed pricing, but no free instance)
+- optional: provide oerlybird metadata plugin with standardized values (metadata standard question), could be deployed via Wordpress Plugin management with auto-updates as well
 
 ### DEMO
 
