@@ -12,7 +12,7 @@ The "unlucky ones" need to wait. But it is no suprise that engaged educators alw
 OERlyBird is meant to be a kickstart boilerplate which can be used as a placeholder while waiting for more funding. It provides a solution for publishing as well as searching for OER in the open web. 
 
 ## Components 
-1. OERlybird showroom = Provide a low budget alternative to repositories for institutions/projects starting publishing with a few OERs 
+1. OERlybird showroom = Provide a low budget alternative to repositories for institutions/projects who just want to publish their first few OERs 
 2. OERlybird index = Provide a low budget search index to index all the oerlybird-instances (showrooms) to let users search across instances
 
 ## What you'll need
