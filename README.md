@@ -3,16 +3,25 @@ Low budget infrastructure concept for sharing Open Educational Resources (OER) a
 
 No funding? No problem!
 
-## Goals
+## Background
+
+In many institutions there are (at least a few) motivated educators or scientist willing to share their teaching material as Open Educational Resource. Some of them are lucky: OER initiatives in their institution, federal state or country being setup professionally and a publishing as well as a OER search infrastructure is provided for them (Hello, Netherlands! :))
+
+The "unlucky ones" need to wait. But it is no suprise, that engaged educators always find a way to spread their knowledge: They setup their own infrastructure without extensive funding, which is possible nowadays by using open source software. But most of the time these bottom-up-projects struggle to provide good metadata and therefore external educators willing to re-use OERs can't search effectively across the different bottom-up-projects. 
+
+OERlyBird is meant to be a kickstart boilerplate which can be used as a placeholder while waiting for more funding. It provides a solution for publishing as well as searching for OER in the open web. 
+
+## Components 
 1. OERlybird showroom = Provide a low budget alternative to repository software for OER projects and institutions starting with a few OERs 
 2. OERlybird index = Provide a low budget search index to index all the oerlybird-instances (showrooms) to let users search across instances
 
 ## Principles
-1. Keep it simple!
-2. Keep it as flexible as possible!
-3. Keep it maintainable!
-4. Use the open web, schema.org and XML sitemaps!
-5. No APIs!
+1. Start now!
+2. Keep it simple!
+3. Keep it as flexible as possible!
+4. Keep it maintainable in part-time!
+5. Use the open web, schema.org and XML sitemaps!
+6. No APIs!
 
 ## Concept
 
@@ -54,4 +63,4 @@ Yeah, this gets a bit tricky and nerdy now.
 
 ### DEMO
 
-- Submit your instance
+- Connect/Submit your instance
