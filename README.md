@@ -15,6 +15,12 @@ OERlyBird is meant to be a kickstart boilerplate which can be used as a placehol
 1. OERlybird showroom = Provide a low budget alternative to repositories for institutions/projects starting publishing with a few OERs 
 2. OERlybird index = Provide a low budget search index to index all the oerlybird-instances (showrooms) to let users search across instances
 
+## What you'll need
+- 1 person who knows how to install Wordpress
+- 1 editorial manager who wants to learn adding OER in the Wordpress backend
+- 1 webdev commited to run the index
+- educators and students eager to publish their OER :)
+
 ## Principles
 1. Start now!
 2. Keep it simple!
@@ -54,4 +60,4 @@ Yeah, this gets a bit tricky and nerdy now. The good news: You can cooperate on 
 
 ### DEMO
 
-- Connect/Submit your instance
+- Connect/Submit your instance with URL to sitemapXML
