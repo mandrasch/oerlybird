@@ -5,9 +5,9 @@ No funding? No problem!
 
 ## Background
 
-In many institutions there are (at least a few) motivated educators or scientist willing to share their teaching material as Open Educational Resource. Some of them are lucky: OER initiatives in their institution, federal state or country being setup professionally and a publishing as well as a OER search infrastructure is provided for them (Hello, Netherlands! :))
+In many institutions there are (at least a few) motivated educators or scientist willing to share their teaching material as Open Educational Resource. Some of them are lucky: OER initiatives in their institution, federal state or country being setup professionally and a publishing as well as a search infrastructure is provided for them (Hello, Netherlands! :))
 
-The "unlucky ones" need to wait. But it is no suprise, that engaged educators always find a way to spread their knowledge: They setup their own infrastructure without extensive funding, which is possible nowadays by using open source software. But most of the time these bottom-up-projects struggle to provide good metadata and therefore external educators willing to re-use OERs can't search effectively across the different bottom-up-projects. 
+The "unlucky ones" need to wait. But it is no suprise that engaged educators always find a way to spread their knowledge: They setup their own infrastructure without extensive funding, which is possible nowadays by using open source software. But most of the time these bottom-up-projects struggle to provide good metadata and therefore external educators willing to re-use OERs can't search effectively across the different bottom-up-projects. 
 
 OERlyBird is meant to be a kickstart boilerplate which can be used as a placeholder while waiting for more funding. It provides a solution for publishing as well as searching for OER in the open web. 
 
