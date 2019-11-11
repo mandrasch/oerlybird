@@ -1,11 +1,11 @@
-# OERlyBird
+# OERlybird
 Low budget infrastructure concept for sharing Open Educational Resources (OER) across institutions and based on modern web standards.
 
 No funding? No problem!
 
 ## Goals
-1. Provide a low budget alternative to repository software for OER projects and institutions starting with a few OERs (OERly bird showroom)
-2. Provide a low budget search index to index all the oerlybird-instances to let users search across instances (OERly bird index)
+1. OERlybird showroom = Provide a low budget alternative to repository software for OER projects and institutions starting with a few OERs 
+2. OERlybird index = Provide a low budget search index to index all the oerlybird-instances (showrooms) to let users search across instances
 
 ## Principles
 1. Keep it simple!
