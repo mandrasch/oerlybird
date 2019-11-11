@@ -1,5 +1,5 @@
 # OERlyBird
-Low budget infrastructure concept for sharing Open Educational Resources (OER) across institutions.
+Low budget infrastructure concept for sharing Open Educational Resources (OER) across institutions and based on modern web standards.
 
 No funding? No problem!
 
@@ -17,6 +17,11 @@ No funding? No problem!
 ## Concept
 
 ### 1. OERly bird showroom(s)
+
+1. Setup wordpress
+2. Install metabox.io plugin
+3. Install oerlybird-wp
+4. Install Google XML sitemaps
 
 #### Setup an OERly bird showroom with Wordpress for your institution
 Institutions or projects simply setup a standard Wordpress instance, e.g. at oer.university-x.org. 
@@ -39,6 +44,8 @@ https://de.wordpress.org/plugins/google-sitemap-generator/ (Thanks to Arne Brach
 Other CMS can be considered as well of course. 
 
 ### 2. OERly bird index
+
+Yeah, this gets a bit tricky and nerdy now. 
 
 #### Setup a search crawler and index with PHP/MySQL and ElasticSearch
 
