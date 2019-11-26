@@ -1,4 +1,7 @@
-# OERlybird
+# OERlybird (now: TOSIoer)
+
+https://docs.google.com/presentation/d/14jMeONt1-uW9QKOuciZBw9uGSR6GC6JHzfBx9uckp3g/edit#slide=id.p
+
 Low budget infrastructure concept for sharing Open Educational Resources (OER) across institutions, based on modern web standards and open source software.
 
 No funding? No problem!
